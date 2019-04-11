@@ -1,13 +1,28 @@
-Learning React  
+## Learning React Note 
 Features:
-- React Navive: no pain from React Web to React App by using Javascript
-- React component: modularize code, no giant js appear anymore.
-- JSX files: Extended JS file, put HTML into JavaScriptHTML-like structures(UI thinking dev) , can also react without JSX
-- Babel: a JavaScript compiler, from JSX to JS
+- React component: 
+  - modularize code, no giant js appear anymore.
+  
+- JSX files: 
+  - Extended JS file, aim to produce React elements
+  - put HTML into JavaScriptHTML, so like structures(UI thinking dev) , can also react without JSX
+  - React doesn’t require using JSX, but is a helpful visual aid
+  - https://reactjs.org/docs/introducing-jsx.html
+  
+- Babel: 
+  - a JavaScript compiler, from JSX to JS
+  - https://babeljs.io/
+  - React Navive: 
+  - no pain from React Web to React App by using Javascript
+  
+  
+***
+## To do 
+- tic-tac-toe web game
+  - https://reactjs.org/tutorial/tutorial.html
 
-*ORG
-https://reactjs.org/
-
+***
+## Ref
 *full-stack tool to use  
 https://github.com/crsandeep/simple-react-full-stack
 
