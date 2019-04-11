@@ -1,7 +1,8 @@
 ## Learning React Note 
 Features:
 - React component: 
-  - modularize code, no giant js appear anymore.
+  - Thinking about repetitive chunk on website, and pack is a a block.
+  - modularize the codes, no giant js appear anymore.
   
 - JSX files: 
   - Extended JS file, aim to produce React elements
