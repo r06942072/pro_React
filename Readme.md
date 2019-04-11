@@ -1,5 +1,5 @@
-## Learning React Note 
-Features:
+# Learning React Note 
+## Features:
 - React component: 
   - Thinking about repetitive chunk on website, and pack is a a block.
   - modularize the codes, no giant js appear anymore.
@@ -21,8 +21,12 @@ Features:
 ***
 ## To do 
 - tic-tac-toe web game
+  - for basic understand of React syntax
   - https://reactjs.org/tutorial/tutorial.html
 
+- ReactJS + database
+  - google firebase
+  
 ***
 ## Ref
 *full-stack tool to use  
