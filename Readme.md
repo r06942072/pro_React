@@ -13,7 +13,8 @@ Features:
 - Babel: 
   - a JavaScript compiler, from JSX to JS
   - https://babeljs.io/
-  - React Navive: 
+
+- React Navive: 
   - no pain from React Web to React App by using Javascript
   
   
