@@ -22,6 +22,7 @@
 ## To do 
 - tic-tac-toe web game
   - for basic understand of React syntax
+  - https://reactjs.org/docs/add-react-to-a-website.html
   - https://reactjs.org/tutorial/tutorial.html
 
 - ReactJS + database
