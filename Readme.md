@@ -30,6 +30,9 @@
   
 ***
 ## Ref
+*ES6 promise and .then function  
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a  
+
 *full-stack tool to use  
 https://github.com/crsandeep/simple-react-full-stack
 
