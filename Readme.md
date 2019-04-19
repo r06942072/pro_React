@@ -11,6 +11,7 @@
   - https://reactjs.org/docs/introducing-jsx.html
   
 - Babel: 
+  - browser does not understand JSX so, before the code can be run, it is converted into browser-compatible JavaScript by a JS compiler, i.e. Babel
   - a JavaScript compiler, from JSX to JS
   - https://babeljs.io/
 
