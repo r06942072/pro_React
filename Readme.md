@@ -31,6 +31,9 @@
   
 ***
 ## Ref
+*Setting up a React Development Environment from Scratch.  
+https://www.codementor.io/seyiadeleke42/setting-up-a-react-development-environment-from-scratch-hbodiez1c  
+
 *ES6 promise and .then function  
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a  
 

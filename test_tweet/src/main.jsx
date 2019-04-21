@@ -1,7 +1,12 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+ReactDOM.render(
+    <h1>Hello, world!</h1>,
+    document.getElementById('root')
+  );
+  
+/*
 class TweetBox extends React.Component {
     constructor(props) {
         super(props);
@@ -19,11 +24,12 @@ class TweetBox extends React.Component {
     }
 };
 
-/*
-takes two arguments: 1. React component, 2. DOM element
-renders the TweetBox UI inside <div id="container">
-*/
+
+//takes two arguments: 1. React component, 2. DOM element
+//renders the TweetBox UI inside <div id="container">
+
 ReactDOM.render(
     <TweetBox />,
     document.getElementById("container")
 );
+*/
